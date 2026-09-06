@@ -1,7 +1,7 @@
 ### NAME : Priya B
 ### REGISTER NO. : 212224230208
+### DATE:05.09.26
 # EX. NO.8
-### DATE:05.09.2
 # Implementation of Speech Recognition
 
 ## Aim:
